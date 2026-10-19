@@ -1,6 +1,6 @@
 # Unidad 3: Herencia, Polimorfismo y Sobrecarga (C++)
 
-Programación Orientada a Objetos — Julio Ivan Gomez Denis, UAG Campus Tabasco.
+Programación Orientada a Objetos — Julio Ivan Gomez Denis.
 
 | # | Archivo | Tema |
 |---|---------|------|
